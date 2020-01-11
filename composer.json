@@ -1,0 +1,18 @@
+{
+    "name": "xstat/array-values-extractor",
+    "description": "Validates and extracts data from an array",
+    "type": "library",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Ignacio Rodriguez Faillace",
+            "email": "ignacio.faillace@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Xstat\\": "src/"
+        }
+    }
+}
